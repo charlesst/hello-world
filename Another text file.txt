@@ -1,1 +1,2 @@
-This machine is laughably slow
+This machine is laughably slow.
+Maybe a bit quicker if I use the Git shell.
